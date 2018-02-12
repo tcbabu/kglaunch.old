@@ -1,0 +1,15 @@
+
+23/06/2016
+Ver 1.1
+Compiled with 'Kulina Graphics Ver 1.3'. Also some quality improvement.
+Fixed a bug with missing Icon, launcher will not crash.
+
+20/05/2016
+Ver 1.0
+A mistake was there in the default configuration file, which
+was refering to  '/usr/share/icons/red_light.png' (which was
+available in my system, but may not be there in other systems).
+This is fixed. Also demonised 'kglaunch' (which was suppressed
+for debuging).
+
+Enabled bottom right corner as 'LOGOUT' for 'Hotspot'
